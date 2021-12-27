@@ -1,0 +1,8 @@
+env/
+venv/
+# ignore vscode cache
+.vscode/
+# igrnore IntelliJ IDEA cache
+.idea/
+# ignore SQLite DB
+db.sqlite3
